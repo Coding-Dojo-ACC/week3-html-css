@@ -1,2 +1,16 @@
 # week3-html-css
 Week 3 - HTML and CSS repository 
+
+
+## Week 3 Day 1 - HTML
+
+1. Create a title
+2. Add a box that will contain text (pick your version of text from here https://beedev-themes.github.io/lorem-ipsum/#navy)
+3. Add 2 boxes with images. Pick 1 from the images folder and one from the following link (http://images.thehive-services.com/ACC/)
+4. Add some text below each image describing it
+5. Add a box that is going to be about you.
+
+
+
+## Week 3 Day 2 - CSS
+
