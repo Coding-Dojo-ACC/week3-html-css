@@ -14,3 +14,4 @@ Week 3 - HTML and CSS repository
 
 ## Week 3 Day 2 - CSS
 
+1. Style the title how ever you want it using the styles.css file
