@@ -1,0 +1,33 @@
+header{
+    border-style: solid;
+  border-width: 15px;
+  border: 15px solid blue;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+div{
+  background-color: lightgrey;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+p{
+    background-color: powderblue;
+    border-style: solid;
+    border-width: 2px;
+    border: solid yellow;
+}
+footer{
+    border-style: solid;
+    border-width: 15px;
+    border: solid red;
+    display: flex;
+    flex-direction: column;
+}
+.caption {
+    display: block;
+}
