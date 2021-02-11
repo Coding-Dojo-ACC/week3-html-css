@@ -14,4 +14,7 @@ Week 3 - HTML and CSS repository
 
 ## Week 3 Day 2 - CSS
 
-1. Style the title how ever you want it using the styles.css file
+1. Style the title how ever you want it using internal, inline or external CSS
+2. Remove boarders you don't want
+3. Center the images
+4. Give the paragraphs a width of 400px
