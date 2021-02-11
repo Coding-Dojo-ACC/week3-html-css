@@ -2,7 +2,25 @@
     border: 3px groove blue;
 }
 header {
-    border: 3px groove green;
+    border: 3px groove #83c983;
+    background-color: gold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2em;
+    padding: 2em;
+}
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: #0e0e55
+}
+/* Cascading Styles */
+header img {
+    border: 5px solid #ec1a83;
+    padding: 2em;
+    margin: 1em;
 }
 p {
     border: 3px groove yellow;
@@ -13,9 +31,13 @@ p {
 #mask {
     width: 250px;
 }
-/* .images {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-} */
+header nav a {
+    border: 2px solid black;
+    padding: 3px 1px 6px 4px;
+    margin: 1.5em;
+}
+
+/* 1px 1px 1px 1px
+top right bottom left */
+/* 1px 1px
+top&bottom right&left */
