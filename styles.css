@@ -1,0 +1,21 @@
+.navy {
+    border: 3px groove blue;
+}
+header {
+    border: 3px groove green;
+}
+p {
+    border: 3px groove yellow;
+}
+#clover {
+    width: 250px;
+}
+#mask {
+    width: 250px;
+}
+/* .images {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
